@@ -39,7 +39,7 @@ class Installer:
 				else:
 					print("%s module was successfully installed." % module)
 		print("\n")
-		print("Everything is set up... And Stephanie is ready to run.")
+		print("Everything is set up... And Seth is ready to run.")
 		input("Close the command line by writting exit or simply close the window.")
 
 	@staticmethod
